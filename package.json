@@ -1,0 +1,16 @@
+{
+  "name": "MatDialog",
+  "version": "1.0.0",
+  "description": "MatDialog.js is a JavaScript library for MatereializeCss which provides you functionalities to create dialog boxes without having to worry about creating, managing or removing any of the required DOM elements or JS event handlers",
+  "main": "/Dist/v 1.0.0/matdialog.min.js",
+  "scripts": {
+    "test": "",
+    "prebuild": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fkranenburg/MatDialog.git"
+  },
+  "author": "ujjwalguptaofficial",
+  "license": "MIT"
+}
